@@ -11,6 +11,19 @@ As a recent graduate in Computer Science with a strong interest in Machine Learn
 | ------------- | ------------- |
 | [LinkedIn ](https://www.linkedin.com/in/ahmed-mohamed-abd-elkader-ml/)  | I share data science Projects ,Candidate Useful Courses and practical machine learning tips |
 | [Kaggle ](https://www.kaggle.com/ahmedmoabdelkader)  |  I  share data science Projects , My Competition in Kaggle|
+
+<h3 align="left"> Open Soruce & Projects:</h3>
+
+| Topic  | Summary |
+| ------------- | ------------- |
+| [Data Science Portoflio](https://github.com/ahmedAEAID/ML-Portofolio) |My data science skill based portoflio |
+| [Machine Learing Projects](https://github.com/youssefHosni/Practical-Data-Science-Blog) |All My Project in Machine learning Only |
+| [DataCamp Projects](https://github.com/ahmedAEAID/DataCamp-Projects) | Some Project in DataCamp Plateform |
+| [Practical Computer Vision](https://github.com/ahmedAEAID/Computer_Vision_Projects)  |image processing and Deeplearning with computer vision|
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedAEAID&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed AbdElkader" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedAEAID" alt="Ahmed AbdElkader" /></a> </p>
 <!--
 **ahmedAEAID/ahmedAEAID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
