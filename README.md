@@ -2,7 +2,7 @@
 
 As a recent graduate in Computer Science with a strong interest in Machine Learning, I am eager to begin my career as a Machine Learning Engineer. With a solid foundation in Python programming and experience with various Machine Learning frameworks, I am excited to apply my skills to real-world applications. I have a strong understanding of Data Science concepts, including data preprocessing, feature engineering, and model selection.I am a quick learner and a team player, and I have excellent problem-solving skills. I am looking for an opportunity to work with a dynamic team where I can apply my knowledge and skills to build innovative ML solutions and further develop my career in this exciting field.
 
-### You can find Sample project foreach Algorithm: ###
+### You can find Sample project foreach Machine Learning Algorithm: ###
 #### [Data Science Portoflio](https://github.com/ahmedAEAID/ML-Portofolio) ##
 
 <h3 align="left">Connect with me:</h3>
