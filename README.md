@@ -17,7 +17,8 @@ As a recent graduate in Computer Science with a strong interest in Machine Learn
 | Topic  | Summary |
 | ------------- | ------------- |
 | [Machine Learning Portoflio](https://github.com/ahmedAEAID/ML-Portofolio) |My data science skill based portoflio |
-| [Machine Learing Projects](https://github.com/youssefHosni/Practical-Data-Science-Blog) |All My Project in Machine learning Only |
+| [Machine Learing Projects](https://github.com/ahmedAEAID/ML_PROJECTS) |All My Project in Machine learning Only |
+| [Machine Learing Projects]() |All My Project in Machine learning Only |
 | [DataCamp Projects](https://github.com/ahmedAEAID/DataCamp-Projects) | Some Project in DataCamp Plateform |
 | [Practical Computer Vision](https://github.com/ahmedAEAID/Computer_Vision_Projects)  |image processing and Deeplearning with computer vision|
 
