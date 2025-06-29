@@ -1,6 +1,8 @@
 # Hi, I'm Ahmed Abd-Elkader👋
 
-As a recent graduate in Computer Science with a strong interest in Machine Learning, I am eager to begin my career as a Machine Learning Engineer. With a solid foundation in Python programming and experience with various Machine Learning frameworks, I am excited to apply my skills to real-world applications. I have a strong understanding of Data Science concepts, including data preprocessing, feature engineering, and model selection.I am a quick learner and a team player, and I have excellent problem-solving skills. I am looking for an opportunity to work with a dynamic team where I can apply my knowledge and skills to build innovative ML solutions and further develop my career in this exciting field.
+Machine Learning & AI Engineer with a Bachelor's degree in Computer Science and a strong passion for applying AI to real-world challenges. Starting with a solid foundation in Python and machine learning fundamentals, I have grown into a hands-on AI practitioner with experience fine-tuning large language models (LLMs), building intelligent agents, and automating complex workflows.
+Skilled in data preprocessing, feature engineering, model selection, and deploying scalable ML solutions using open-source tools. I’ve worked on extracting structured data from unstructured sources, optimizing model performance, and developing voice-based AI applications. I am a fast learner, a problem-solver, and a collaborative team player, always eager to explore innovative AI technologies and contribute to impactful projects.
+Currently seeking opportunities where I can leverage both my academic background and practical experience to build cutting-edge AI systems, continue learning, and grow within a forward-thinking team.
 
 ### You can find Sample project foreach Machine Learning Algorithm: ###
 #### [Data Science Portoflio](https://github.com/ahmedAEAID/ML-Portofolio) ##
