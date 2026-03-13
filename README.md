@@ -17,7 +17,7 @@ I specialize in building **Generative AI systems**, orchestrating **multi-agent 
 
 * 🚀 **Currently Building:** Voice-First Multi-Agent Triage Systems & End-to-End LLMOps Pipelines.
 * 🔍 **Research Interests:** Deep Learning from scratch, Knowledge Distillation, and Agentic Workflows.
-* 📫 **Reach me at:** [ahm099060@gmail.com](mailto:ahm099060@gmail.com)
+* 📫 **Reach me at:** [ahmed.abdelkader099060@gmail.com](mailto:ahmed.abdelkader099060@gmail.com)
 
 ---
 
