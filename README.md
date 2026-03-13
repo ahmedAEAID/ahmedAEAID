@@ -1,47 +1,82 @@
-# Hi, I'm Ahmed Abd-Elkader👋
+<h1 align="center">Hi there, I'm Ahmed 👋</h1>
 
-Machine Learning & AI Engineer with a Bachelor's degree in Computer Science and a strong passion for applying AI to real-world challenges. Starting with a solid foundation in Python and machine learning fundamentals, I have grown into a hands-on AI practitioner with experience fine-tuning large language models (LLMs), building intelligent agents, and automating complex workflows.
-Skilled in data preprocessing, feature engineering, model selection, and deploying scalable ML solutions using open-source tools. I’ve worked on extracting structured data from unstructured sources, optimizing model performance, and developing voice-based AI applications. I am a fast learner, a problem-solver, and a collaborative team player, always eager to explore innovative AI technologies and contribute to impactful projects.
-Currently seeking opportunities where I can leverage both my academic background and practical experience to build cutting-edge AI systems, continue learning, and grow within a forward-thinking team.
+<div align="center">
+  <a href="https://linkedin.com/in/ahmed-mohamed-abd-elkader-ml">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Building+Production-Ready+Agents;Implementing+Papers+From+Scratch" alt="Typing SVG" />
+  </a>
+</div>
 
-### You can find Sample project foreach Machine Learning Algorithm: ###
-#### [Data Science Portoflio](https://github.com/ahmedAEAID/ML-Portofolio) ##
+<p align="center">
+  <b>Bridging the gap between theoretical AI research and highly optimized, cost-efficient production systems.</b>
+</p>
 
-<h3 align="left">Connect with me:</h3>
+---
 
-| Media  | Summary |
-| ------------- | ------------- |
-| [LinkedIn ](https://www.linkedin.com/in/ahmed-mohamed-abd-elkader-ml/)  | I share data science Projects ,Candidate Useful Courses and practical machine learning tips |
-| [Kaggle ](https://www.kaggle.com/ahmedmoabdelkader)  |  I  share data science Projects , My Competition in Kaggle|
+### 🧠 About Me
+I specialize in building **Generative AI systems**, orchestrating **multi-agent workflows**, and fine-tuning **Large Language Models**. While I spend a lot of time in PyTorch dissecting and implementing complex research papers from scratch (ViT, Swin, LLaVA), my true passion lies in deploying these models into robust, real-time production environments using modern architectures (FastAPI, Docker, LiveKit).
 
-<h3 align="left"> Open Soruce & Projects:</h3>
+* 🚀 **Currently Building:** Voice-First Multi-Agent Triage Systems & End-to-End LLMOps Pipelines.
+* 🔍 **Research Interests:** Deep Learning from scratch, Knowledge Distillation, and Agentic Workflows.
+* 📫 **Reach me at:** [ahm099060@gmail.com](mailto:ahm099060@gmail.com)
 
-| Topic  | Summary |
-| ------------- | ------------- |
-| [Machine Learning Portoflio](https://github.com/ahmedAEAID/ML-Portofolio) |My data science skill based portoflio |
-| [Machine Learing Projects](https://github.com/ahmedAEAID/ML_PROJECTS) |All My Project in Machine learning Only |
-| [Machine Learing Projects]() |All My Project in Machine learning Only |
-| [DataCamp Projects](https://github.com/ahmedAEAID/DataCamp-Projects) | Some Project in DataCamp Plateform |
-| [Practical Computer Vision](https://github.com/ahmedAEAID/Computer_Vision_Projects)  |image processing and Deeplearning with computer vision|
+---
 
+### 🛠️ Tech Stack & Tools
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedAEAID&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed AbdElkader" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedAEAID" alt="Ahmed AbdElkader" /></a> </p>
+<details>
+  <summary><b>🤖 GenAI & LLMs</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSPy-Prompt_Optimization-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Qwen-LLM-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Unsloth-Fine--Tuning-orange?style=for-the-badge" />
+</details>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<details>
+  <summary><b>🧠 Deep Learning & Vision</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer_Vision-ViT_%7C_Swin_%7C_DeiT-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</details>
 
-<!--
-**ahmedAEAID/ahmedAEAID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary><b>⚙️ MLOps & Production Engineering</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/LangSmith-Evaluation-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/uv-Package_Manager-lightgrey?style=for-the-badge" />
+</details>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Work
+
+| Project | Description | Role / Stack |
+|---------|-------------|--------------|
+| **[AI Engineering Lab](https://github.com/ahmedAEAID/AI-Engineering-Lab)** | **Research & Fundamentals:** PyTorch implementations of foundational papers (ViT, NMT, Tokenizers) from scratch + DSPy prompt optimizations. | *PyTorch, Transformers, Jupyter* |
+| **[Medical AI Triage](https://github.com/ahmedAEAID/medical-ai-triage-Voice-Agent)** | **Voice AI & Agents:** Voice-first multi-agent workflow for patient triage with stateful handoffs. | *LiveKit, Qwen, LangGraph* |
+| **[H2-Plate-Architect](https://github.com/ahmedAEAID/H2-Plate-Architect)** | **Production RAG:** Enterprise RAG pipeline utilizing DSPy for prompt optimization and Groq for ultra-low latency. | *FastAPI, ChromaDB, Docker* |
+| **[End-to-End LLMOps](https://github.com/ahmedAEAID/End-to-End-LLMOps)** | **Evaluation & Testing:** Conversational RAG with LangSmith evaluation and comprehensive Pytest workflows. | *LangSmith, FAISS, Pytest, uv* |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedAEAID&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedAEAID&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&hide=jupyter%20notebook,html,css" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://linkedin.com/in/ahmed-mohamed-abd-elkader-ml">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
