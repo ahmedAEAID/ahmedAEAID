@@ -68,9 +68,9 @@ I specialize in building **Generative AI systems**, orchestrating **multi-agent 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedAEAID&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ahmedAEAID&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" width="48%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedAEAID&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&hide=jupyter%20notebook,html,css" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ahmedAEAID&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&hide=jupyter%20notebook,html,css" width="48%" />
 </div>
 
 <br>
